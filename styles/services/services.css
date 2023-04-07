@@ -54,7 +54,7 @@
 }
 
 .container-card-logo:hover {
-  transform: rotateZ(50deg);
+  transform: rotateY(70deg);
 }
 
 .container-cat-lorem {
