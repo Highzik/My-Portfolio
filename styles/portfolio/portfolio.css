@@ -1,0 +1,133 @@
+/*portfolio section*/
+#portfolio {
+  background: #23263A;
+  padding-bottom: 100px;
+}
+
+.portfolio-head-container {
+  margin: auto;
+  width: 500px;
+}
+
+.portfolio-showcase {
+  color: #fff;
+  font-size: 60px;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  width: 500px;
+  line-height: 70px;
+}
+
+.portfolio-text {
+  color: #dadadb;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 35px;
+  line-height: 25px;
+  margin-bottom: 15px;
+}
+
+.AABDW {
+  list-style: none;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: #dadadb;
+  margin-right: 30px;
+  cursor: pointer;
+}
+
+.work {
+  border: 2px solid #ff4a57;
+  padding: 7px 17px;
+  border-radius: 25px;
+  transition: 0.05s;
+}
+
+.work:hover {
+  background: #ff4a57;
+}
+
+.work-1,
+.work-2,
+.work-3,
+.work-4 {
+  padding: 7px 17px;
+  border-radius: 25px;
+  transition: 0.2s
+}
+
+.work-1:hover,
+.work-2:hover,
+.work-3:hover,
+.work-4:hover {
+  background: #ff4a57;
+}
+
+.portfolio-container {
+  display: flex;
+  justify-content: center;
+}
+
+#diff-portfolio-sections {
+  width: 700px;
+  margin: auto;
+  margin-top: 55px;
+}
+
+.left-img {
+  max-width: 350px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  transition: 0.2s;
+}
+
+.mid-img {
+  max-height: 80vh;
+  max-width: 100%;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  transition: 0.2s;
+}
+
+.right-img {
+  max-width: 350px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  transition: 0.2s;
+}
+
+.isotope-container {
+  display: flex;
+  margin-top: 70px;
+  margin-left: 130px;
+}
+
+.left-side {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-right: 25px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.middle-side {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.right-side {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 25px;
+  cursor: pointer;
+  transition: 0.2s
+}
