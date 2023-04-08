@@ -6,3 +6,5 @@ I couldn't create a video folder because the video files are too heavy and they 
 I made changes in the index page by adding audios in the page, but I kept getting the message saying "there is a repositor working at the background" which made it difficult for me to commit my changes.
 worked on the portfolio section but yet to get it completed.
 I created a new container for styles. In it has a sub-containers holding different style section of the webpage
+I am yet to complete the range part of the skill section in this job.
+I have 2 sections of this job to be completed, i.e., the blog section and the skill section. 
