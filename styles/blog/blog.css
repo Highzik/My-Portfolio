@@ -47,14 +47,13 @@
 
 .dmain-blog-container {
   background: #2c2e3f;
-  width: auto;
+  width: 500px;
   padding-bottom: 100px;
   margin-top: 50px;
 }
 
 .dmain-grid-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  display: flex;
   margin-left: 50px;
   margin-right: 50px;
 }
