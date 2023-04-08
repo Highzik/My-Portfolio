@@ -1,0 +1,136 @@
+#pricing {
+  background: #23263a;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding-bottom: 100px;
+}
+
+.container-price {
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+}
+
+.type-of-plan {
+  color: #ff4a57;
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+.pricing-plan {
+  color: #fff;
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.lorem-dum-txt {
+  color: #dadadb;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+  line-height: 26px;
+  margin-bottom: 15px;
+}
+
+.container-cards-prices {
+  width: 350px;
+  padding: 80px;
+  background: #1f2235;
+  border-radius: 8px;
+  text-align: center;
+  box-sizing: border-box;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.05);
+}
+
+.main-cards-prices {
+  display: flex;
+  justify-content: center;
+  column-gap: 50px;
+  margin-top: 50px;
+}
+
+.basics {
+  color: #dadadb;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.amount {
+  color: #dadadb;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+.container-cards-prices>p {
+  color: #dadadb;
+  margin-bottom: 15px;
+}
+
+.container-cards-prices-st>p {
+  color: #dadadb;
+  margin-bottom: 15px;
+}
+
+.container-cards-prices>hr {
+  width: 100%;
+  margin: auto;
+  border: 1px solid #23263a;
+  margin-bottom: 10px;
+}
+
+.container-cards-prices-st>hr {
+  width: 100%;
+  margin: auto;
+  border: 1px solid #23263a;
+  margin-bottom: 10px;
+}
+
+.amount>sub {
+  position: relative;
+  font-size: 20px;
+  bottom: 13px;
+  z-index: 50;
+}
+
+.purchase-me {
+  color: #dadadb;
+  background: #23263a;
+  border: 2px solid #ff4a57;
+  margin-top: 20px;
+  padding: 15px 32px;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 28px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.purchase-me:hover {
+  background: #ff4a57;
+}
+
+.purchase-me-st {
+  color: #dadadb;
+  background: #ff4a57;
+  border: 2px solid #ff4a57;
+  margin-top: 20px;
+  padding: 15px 32px;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 28px;
+  cursor: pointer;
+}
+
+.container-cards-prices-st {
+  width: 350px;
+  padding: 80px;
+  background: #1f2235;
+  border-radius: 8px;
+  text-align: center;
+  box-sizing: border-box;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.05);
+  border: 2px solid #ff4a57;
+}
