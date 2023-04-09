@@ -1,0 +1,102 @@
+#testimonials {
+  background: #23263A;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding-bottom: 100px;
+}
+
+.testimonial-container {
+  width: 400px;
+  padding: 10px;
+  margin-left: 150px;
+  margin-right: 100px;
+  display: inline-block;
+}
+
+.testimonial-container>h1 {
+  color: #dadadb;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 60px;
+  margin-bottom: 25px;
+}
+
+.my-testimonial {
+  color: #ff4a57;
+  font-weight: bold;
+  font-size: 15px;
+  margin-bottom: 25px;
+}
+
+.isaac-text {
+  color: #dadadb;
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.learn-more {
+  background: #23263A;
+  color: #dadadb;
+  font-size: 15px;
+  border: 2px solid #ff4a57;
+  padding: 13px 25px;
+  font-weight: bold;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.learn-more:hover {
+  background: #ff4a57;
+}
+
+.star-containers>li {
+  list-style: none;
+  margin-right: 5px;
+}
+
+.star-containers {
+  display: flex;
+}
+
+.fa-solid,
+.fa-star {
+  color: #ff4a57;
+  font-size: 10px;
+}
+
+.text-icons {
+  width: 510px;
+  display: inline-block;
+  vertical-align: top;
+  box-sizing: border-box;
+  background: #1f2235;
+  margin-top: 80px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.text-icons>div>p {
+  color: #dadadb;
+  font-weight: bold;
+  font-size: 18px;
+  font-style: italic;
+  vertical-align: top;
+}
+
+.text-icons>div {
+  display: inline-block;
+  margin-right: 5px;
+  vertical-align: top;
+}
+
+.superscript {
+  color: #dadadb;
+  font-size: 60px;
+  font-weight: bold;
+  position: relative;
+  bottom: 15px;
+}
