@@ -9,3 +9,4 @@ I created a new container for styles. In it has a sub-containers holding differe
 I am yet to complete the range part of the skill section in this job.
 I have 2 sections of this job to be completed, i.e., the blog section and the skill section. 
 I completed the pricing plan section (although, a little part of the styling is needed)
+I added the recommended pricing plan for every customer that wants to visit my webpage and to subscribe. 
