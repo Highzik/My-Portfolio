@@ -1,6 +1,7 @@
 #skills {
   background: #23263A;
   padding-bottom: 100px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .main-skill-container {
@@ -11,7 +12,6 @@
 
 .expertise {
   color: #eb4854;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-weight: bold;
   font-size: 15px;
   padding: 7px;
@@ -29,7 +29,6 @@
 
 .work-2geda {
   color: #fff;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-weight: bold;
   font-size: 60px;
   line-height: 70px;
@@ -39,7 +38,6 @@
 
 .lorem-dummy {
   color: #dadadb;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-weight: bold;
   font-size: 15px;
   padding: 9px;
@@ -56,7 +54,6 @@
   border-radius: 50px;
   font-size: 15px;
   font-weight: bold;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   transition: 0.2s;
 }
 
@@ -75,20 +72,12 @@
   color: #fff;
   font-weight: bold;
   font-size: 18px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   margin-bottom: 25px;
 }
 
 .range-level {
   width: 550px;
   margin-top: 10px;
-}
-
-.range-level::-webkit-slider-thumb,
-.range-level::-moz-range-thumb {
-  background: #ff4a57;
-  -webkit-appearance: none;
-  appearance: none;
 }
 
 .range-level {
