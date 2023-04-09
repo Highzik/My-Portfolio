@@ -37,7 +37,7 @@
 
 .container-cards-prices {
   width: 350px;
-  padding: 80px;
+  padding: 50px;
   background: #1f2235;
   border-radius: 8px;
   text-align: center;
@@ -112,6 +112,24 @@
   background: #ff4a57;
 }
 
+.recommend {
+  color: #dadadb;
+  background: #ff4a57;
+  padding: 5px;
+  border-bottom-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.recommend-div {
+  position: relative;
+  bottom: 20px;
+  left: 63px;
+  width: 180px;
+  z-index: 50;
+}
+
 .purchase-me-st {
   color: #dadadb;
   background: #ff4a57;
@@ -126,7 +144,7 @@
 
 .container-cards-prices-st {
   width: 350px;
-  padding: 80px;
+  padding: 20px;
   background: #1f2235;
   border-radius: 8px;
   text-align: center;
